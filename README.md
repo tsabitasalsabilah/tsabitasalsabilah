@@ -13,7 +13,7 @@
 
 - ✨ *My hobbies are listening music and reading a book*
 
-- ⚡ *Fun fact 'bout myself  **I'm a kpop fan😆***
+- ⚡ *Fun fact 'bout myself : **I'm a kpop fan😆***
 
 <h4 align="center">Reach me out to my another socmed:</h3>
 <p align="center">
