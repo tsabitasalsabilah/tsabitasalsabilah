@@ -1,4 +1,4 @@
-<h1 align="center">Hi Fellas😆👋, I'm Tsabita Salsabilah</h1>
+<h1 align="center">Hi Fellas!😆👋</h1> <h1 align="center">I'm Tsabita Salsabilah</h1>
 
 ![gambar1](https://github.com/Geofisika-UGM/dasar-dasar-git-tsabitasalsabilah/blob/40caf7e54b32c943ad1b08116b8771d6ac46bd35/Bryce-Milky-Way-HDR-b.jpg)
 
