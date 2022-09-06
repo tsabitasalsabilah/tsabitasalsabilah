@@ -5,15 +5,15 @@
 <h3 align="center">I’m currently learning in Geophysics of Universitas Gadjah Mada. I'm interested to learning new things to upgrade my knowledge and skills. I've life motto "Do the best and let God do the rest" that very motivated myself to always do my best effort in working.</h3>
 <h4 align="center">Glimpse of me:</h3>
 
-- 🔭 I’m currently learning on **Universitas Gadjah Mada**
+- 🏢 *I’m currently learning on **Universitas Gadjah Mada***
 
-- 🌱 I’m currently learning **Python**
+- 💻 *I’m currently learning **Python***
 
-- 📫 Reach me out trough my email account : **tsabitaslsbl@gmail.com**
+- 🔗 *Reach me out trough my email account : **tsabitaslsbl@gmail.com***
 
-- ✨ My hobbies are listening music and reading a book
+- ✨ *My hobbies are listening music and reading a book*
 
-- ⚡ Fun fact 'bout myself  **I'm a kpop fan😆**
+- ⚡ *Fun fact 'bout myself  **I'm a kpop fan😆***
 
 <h4 align="center">Reach me out to my another socmed:</h3>
 <p align="center">
